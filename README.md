@@ -46,3 +46,7 @@ This app fetches data from the **[CoinGecko API](https://www.coingecko.com/en/ap
 ## License
 
 This project is open-source and free to use.
+
+## Live website link
+use a wider screen for better display
+https://sauravsahni.github.io/Crypto-Trekker/
