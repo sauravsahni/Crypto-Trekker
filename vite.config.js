@@ -1,7 +1,8 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 
-// https://vite.dev/config/
+// Update base URL for GitHub Pages
 export default defineConfig({
+  base: "/CryptoTrekker/", 
   plugins: [react()],
-})
+});
