@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // Update base URL for GitHub Pages
 export default defineConfig({
-  base: "/CryptoTrekker/", 
+  base: "/Crypto-Trekker/", 
   plugins: [react()],
 });
