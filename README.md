@@ -7,7 +7,7 @@
 - **Live Crypto Prices** – Fetches real-time cryptocurrency prices from the CoinGecko API.  
 - **Search Functionality** – Easily search for specific cryptocurrencies.  
 - **Market Data** – Displays market capitalization, volume, and price changes.  
-- **Responsive UI** – Designed for seamless use on desktops and mobile devices.  
+- **Responsive UI** – Designed for seamless use on desktop screen.  
 
 ## Technologies Used
 
